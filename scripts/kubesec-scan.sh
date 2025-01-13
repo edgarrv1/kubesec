@@ -1,0 +1,1 @@
+kubesec scan deployment-example.yaml
